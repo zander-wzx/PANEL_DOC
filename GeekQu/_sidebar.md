@@ -30,6 +30,10 @@
   * [在 ShadowsocksX-NG 上配置](iOS/ShadowsocksX-NG.md)
   * [在 ClashX 上配置](macOS/ClashX.md)
 
+* 路由器套件
+
+  * [在 路由器 上配置](Luyou/luyou.md)
+  
 * Router
 
   * [在 KoolClash 上配置](Router/KoolClash.md)
