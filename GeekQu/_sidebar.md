@@ -12,11 +12,13 @@
   * [在 Surge 上配置](iOS/Surge.md)
   * [在 Kitsunebi 上配置](iOS/Kitsunebi.md)
   * [在 Quantumult 上配置](iOS/Quantumult_sub.md)
-    * [导入 Quantumult 完整配置](iOS/Quantumult_conf.md)
+  * [导入 Quantumult 完整配置](iOS/Quantumult_conf.md)
   * [在 Shadowrocket 上配置](iOS/Shadowrocket.md)
 
 * Windows
 
+  * [在 SSTap 上配置](Windows/SSTap.md)
+  * [在 V2rayN 上配置](Windows/V2rayN.md)
   * [在 Shadowsocks 上配置](Windows/Shadowsocks.md)
   * [在 ShadowsocksD 上配置](Windows/ShadowsocksD.md)
   * [在 ShadowsocksR 上配置](Windows/ShadowsocksR.md)
@@ -25,6 +27,7 @@
 * macOS
 
   * [在 Surge 上配置](macOS/Surge.md)
+  * [在 ShadowsocksX-NG 上配置](iOS/ShadowsocksX-NG.md)
   * [在 ClashX 上配置](macOS/ClashX.md)
 
 * Router
