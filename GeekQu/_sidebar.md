@@ -31,3 +31,9 @@
 * 扩展配置
 
   * [自定义 Clash 配置](Advanced/Clash.md)
+  
+* 其他
+
+  * [无法连接](Advanced/loss.md)
+  * [代理合作协议](Advanced/agent.md)
+  * [服务协议](Advanced/tos.md)
