@@ -1,5 +1,5 @@
 * Android
-
+  * [在 ClashRA 上配置](Android/ClashRA.md)
   * [在 ShadowsocksR 上配置](Android/ShadowsocksR.md)
 
 * iOS
@@ -16,7 +16,6 @@
 
 * macOS
 
-  * [在 Surge 上配置](macOS/Surge.md)
   * [在 ShadowsocksX-NG 上配置](iOS/ShadowsocksX-NG.md)
   * [在 ClashX 上配置](macOS/ClashX.md)
 
